@@ -31,6 +31,8 @@ In Claude Code, type:
 
 Then in any chat, type `/setup` and follow the walkthrough.
 
+> **Heads up on the two names:** the **repo** is called `ai-ads-claude-plugin` (that's the GitHub URL — where the code lives). The **plugin** is called `ai-ad-designer` (that's what you type to install it). One describes the box, the other describes what's inside.
+
 ### Option 3 — Git clone (for the technically comfortable)
 
 ```bash
