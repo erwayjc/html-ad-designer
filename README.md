@@ -4,6 +4,41 @@ A Claude Code plugin for designing, rendering, and launching paid social ads fro
 
 Built for the **AI Ads Workshop**. No GitHub account required.
 
+**Repo:** https://github.com/erwayjc/ai-ads-claude-plugin
+
+---
+
+## Install (workshop students start here)
+
+You have three install paths, in order of how non-technical you are:
+
+### Option 1 — Download the zip (easiest, no terminal required)
+
+1. Go to **https://github.com/erwayjc/ai-ads-claude-plugin**
+2. Click the green **Code** button → **Download ZIP**.
+3. Unzip the folder somewhere on your computer (Desktop is fine).
+4. Open **Claude Code Desktop** → Settings → Plugins → **Add local plugin** → point it at the unzipped folder.
+5. In any Claude Code chat, type `/setup` and follow the walkthrough.
+
+### Option 2 — Marketplace install (one command)
+
+In Claude Code, type:
+
+```
+/plugin marketplace add erwayjc/ai-ads-claude-plugin
+/plugin install ai-ad-designer
+```
+
+Then in any chat, type `/setup` and follow the walkthrough.
+
+### Option 3 — Git clone (for the technically comfortable)
+
+```bash
+git clone https://github.com/erwayjc/ai-ads-claude-plugin.git
+```
+
+Then add the cloned folder as a local plugin in Claude Code Desktop. Type `/setup` to begin.
+
 ---
 
 ## What you can do here
